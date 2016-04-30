@@ -9133,6 +9133,26 @@ section#header {
   margin-top: 96px;
   margin-bottom: 72px;
 }
+#brn-promo-bs {
+  margin-top: 0;
+  margin-bottom: 96px;
+  background: url("../img/blues-street-bg.jpg") 50% 0 no-repeat #1697dc;
+}#brn-promo-bs h1 {
+  margin-top: 96px;
+}
+#brn-promo-bs h1,
+#brn-promo-bs p.lead {
+  color: #fff;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+}
+#brn-promo-bs p.lead {
+  margin-top: 24px;
+}
+#brn-promo-bs .fluid-width-video-wrapper {
+  margin-top: 96px;
+  margin-bottom: 72px;
+}
+
 /* Countdown */
 .countdown {
   text-align: center;
